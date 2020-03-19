@@ -19,7 +19,7 @@ CONVENTIONAL_PRODUCE = [
 def assembled_matrix
   produceStorageRoom = [
     ]
-    produceStorageRoom << ORGANIC_PRODUCE,
+    produceStorageRoom << ORGANIC_PRODUCE
     produceStorageRoom << CONVENTIONAL_PRODUCE
     
   # Build an array that contains both of the above arrays
