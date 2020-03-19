@@ -25,6 +25,7 @@ end
 
 def sorted_matrix
   sortedMatrix = []
+  
   sortedMatrix << ["Eggplant"]
   # Using Array literal syntax only, build another nested array that 
   # uses the arrays of conventional and organic produce as before.
